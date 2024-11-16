@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+body{
+
+font-size: 3em;
+  font-family: "Montserrat", sans-serif;
+    align-items: center;
+}
+
+.conteyner{
+    margin: 150px;
+}
+
+
+.answer{
+border: 2px solid black;
+border-radius: 5px;
+margin: 5px;
+padding: 13px;
+}
+
+.question{
+    text-align: center;
+}
+.answers{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
